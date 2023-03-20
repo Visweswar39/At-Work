@@ -52,7 +52,7 @@ A freelancing website to reduce unemployment ( Rajasthan IT Hackathon )
 
   UNEMPLOYMENT is one of the major problems India is facing. The unemployment rate in India is literally approaching 10 %. The unemployment rate in rural India is even much worse. Through our research, we found that one of the main reasons for unemployment is not using the talent in youth properly. So we cameup with this idea to develop a website to provide freelancing oppurtunies for unemployed youth !!
   
-  In this website the blue-color unemployment youth and users can create their accounts and freelance their work. The customers can create account and order for any service they want. We also integrated collaborative recommender system which recommends the users the best servies.
+  In this website the blue-collar unemployment youth and users can create their accounts and freelance their work. The customers can create account and order for any service they want. We also integrated collaborative recommender system which recommends the users the best services.
 
 ### Built With
 
